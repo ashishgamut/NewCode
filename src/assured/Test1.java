@@ -31,6 +31,8 @@ public class Test1 {
 		JsonPath js=new JsonPath(stringresp);
 		
 		System.out.println(js);
+		
+		System.out.println("cloud testing is successfully done");
 
 	}
 
